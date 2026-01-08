@@ -6,6 +6,20 @@ This repository contains the **official mod downloads and setup instructions** f
 ---
 
 ## 📥 Downloads
+---
+
+## ⬇️ How to Download from GitHub (IMPORTANT)
+
+After clicking a download link:
+
+1. Click the green **Code** button (top-right of the page)
+2. Click **Download ZIP**
+3. Wait for the ZIP file to finish downloading
+4. Extract the ZIP
+5. Copy the `.jar` files into your Minecraft `mods` folder
+
+⚠️ Do NOT click individual files one-by-one.
+
 
 ⚠️ **Only download ONE option below**
 
