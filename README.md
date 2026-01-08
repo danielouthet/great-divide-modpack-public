@@ -3,6 +3,18 @@
 
 This repository contains the **official mod downloads and setup instructions** for the **Great Divide Minecraft server**.
 
+## 📖 Setup Instructions (Start Here)
+
+If this is your first time installing the modpack, follow the full step-by-step guide:
+
+👉 **[Click here for the Setup Guide](SETUP_GUIDE.md)**
+
+This covers:
+- Java 17 installation
+- Forge 1.20.1 setup
+- Mod installation
+- Updating mods safely
+
 ---
 
 ## 📥 Downloads
